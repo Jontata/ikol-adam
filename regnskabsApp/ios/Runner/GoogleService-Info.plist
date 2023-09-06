@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>433670515802-qqchllrovm524rf56ucnnredbc2m9rsf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.433670515802-qqchllrovm524rf56ucnnredbc2m9rsf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>433670515802-7ghtsteraa6dcjhes1v49kppctt3jct7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdJqL_O3NaFZyH9acPf-vvXty1sio6JtE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>433670515802</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.ikoladam</string>
+	<key>PROJECT_ID</key>
+	<string>adamsolskab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adamsolskab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:433670515802:ios:366f50b1f098e411a4fc63</string>
+	<key>DATABASE_URL</key>
+	<string>https://adamsolskab-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

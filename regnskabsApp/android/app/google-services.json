@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433670515802",
+    "firebase_url": "https://adamsolskab-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "adamsolskab",
+    "storage_bucket": "adamsolskab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433670515802:android:9f3fc4880123e835a4fc63",
+        "android_client_info": {
+          "package_name": "com.mycompany.ikoladam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433670515802-9ddmb59hfk15h6d2og1cqhrkssnjhsej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.ikoladam",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "433670515802-vdbj53aa2rb289sbe7qqae0oiu4r4jkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClOr2WjdaYoGsLm5s8EtWqA_ogdbM5YuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433670515802-vdbj53aa2rb289sbe7qqae0oiu4r4jkv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433670515802-6g5dbfrq67lga2odnrmk8mo5onn1cm0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.adamsol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
